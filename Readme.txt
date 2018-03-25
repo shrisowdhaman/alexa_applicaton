@@ -1,4 +1,4 @@
-Alexa Integrate with Spring REST Application 
+Alexa Integrate with Spring Boot REST Application 
 
  Technology used :
 1.	Java 1.8
